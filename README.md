@@ -8,6 +8,6 @@ To perform an initial data and exploratory analysis of data provided by Instacar
  The datasets comprise of information on the following parameters:
  orders,
  products,
- departments,
- customers
+ departments and
+ customers.
  
